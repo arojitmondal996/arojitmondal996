@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arojit Mondal</h1>
-<h3 align="center">I am MERN Stuck Developer, Cyber Security Researcher, UI Design, Graphics Design, Digital Marketing and also WordPress Developer .</h3>
+<h3 align="center">I am Web Developer, Cyber Security Researcher, UI Design, Graphics Design, <br> Digital Marketing and also WordPress Developer .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arojitmondal996&label=Profile%20views&color=0e75b6&style=flat" alt="arojitmondal996" /> </p>
 
